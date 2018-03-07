@@ -1,4 +1,4 @@
-FROM qspack/debian-base
+FROM qspack/debian-hwloc
 
 ARG OPENMPI_VERSION=2.0.1
 #2.0.0 1.10.3 1.10.2 1.10.1 1.10.0 1.8.8 1.6.5
